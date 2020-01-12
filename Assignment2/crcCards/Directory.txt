@@ -1,0 +1,12 @@
+Class name: Directory
+Parent Class: Content
+SubClass: None
+
+Responsibilities:
+* Adds directory(content) to file system
+* removes directory from file system
+* gets name and path of a directory
+
+Collaborators:
+* Validator
+* IO

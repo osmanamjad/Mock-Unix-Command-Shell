@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Wrote base code for find
+    - Created more unit tests for Echo, Content, and Mv
+
+What do I plan to work in the next three days?
+    - Finish coding for find
+    - Start coding tree
+
+Am I blocked on anything?
+	- Nothing

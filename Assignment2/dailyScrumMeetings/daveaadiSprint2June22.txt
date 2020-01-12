@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Completed the PathFinder Class.
+    Completed the LS class that was required.
+
+What do I plan to work in the next three days?
+	- Finish the MKDir and other commands.
+
+Am I blocked on anything?
+	- Nothing yet.

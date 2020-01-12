@@ -1,0 +1,11 @@
+Class Name: History
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Output all the commands that the user has recently run
+* Display only the requested number of commands from history log
+
+Collaborators:
+* CommandMaster
+* inputHistory

@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - Fixed bugs in JShell
+    - Finished coding pushd
+    - Finished coding popd
+    - Finished coding history
+    - Testing done for history
+
+What do I plan to work in the next three days?
+    - Test pushd
+    - Test popd
+    - Finish coding cat command
+    - Update CRC cards
+
+Am I blocked on anything?
+	- Nothing

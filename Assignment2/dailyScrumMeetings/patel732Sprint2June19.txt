@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Started coding the PathFinder
+    - Worked on the Directory and File classes
+
+What do I plan to work in the next three days?
+	- Start working on the Echo class
+    - Finish the PathFinder class
+    - Finish CD command
+
+Am I blocked on anything?
+	- Still need to finish the PathFinder class
+    - Still need to finish on the CD command

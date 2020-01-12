@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Fixed errors and bugs in FileSystem, Ls, Cat.
+    - Commented the code in the classes.
+
+What do I plan to work in the next three days?
+    - Nothing, everything has been completed to it's full extent.
+
+Am I blocked on anything?
+	- Nothing.

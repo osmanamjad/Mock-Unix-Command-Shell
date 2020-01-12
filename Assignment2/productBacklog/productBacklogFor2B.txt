@@ -1,0 +1,94 @@
+
+USER STORIES  																									   ESTIMATED TIME TO COMPLETE
+
+Exit:
+As a user after finishing my work I can quit the program. 																 1 hour
+***************************************************************************************************************
+Mkdir: 																													 3 hours
+As user I can create directories within the current directory,so I can store my files
+in an organized fashion.
+As user I can create directories using full path so I can create a directory in a different
+location without being at that location.
+***************************************************************************************************************
+CD: 																													 4 hours
+As a user I can change to a directory in the current working directory given the name of the
+directory, so I can access my files in the directory
+I am working in.
+As a user I can change to a different directory besides the working directory given the full
+path to that directory, so I can access other files on my computer.
+***************************************************************************************************************
+LS: 																													 8 hours
+As a user I should be able to print the contents of files and directories in my current directory 
+if I do not provide a path.
+As a user if I specify a path I should be able to see the contents of files and directories
+from that path.
+As a user if I specify a path to a file I should see the path to the file.
+As a user if I specify a path to a directory, I should see the contents of that directory.
+As a user if I specify an incorrect path, I should be warned that the path does not exist.
+As a user I should be able to give the option -R to determine all the files from a path recursively.
+***************************************************************************************************************
+PWD:																													 1 hours
+As user I will need to know the full path of the current directory so that I can change to new
+directory if I need
+***************************************************************************************************************
+Mv OLDPATH NEWPATH:																										 1 hours
+As a user I can move an item from one directory to another given the paths to the directories.
+As a user I can rename file names by specifying the path to the file.
+***************************************************************************************************************
+Cp OLDPATH NEWPATH:																										 1 hours
+As a user I should be able to copy file(s) to a certain directory, given the all paths necessary.
+***************************************************************************************************************
+Cat:																													 5 hours
+As a user if I specify a single file I should be able to print the contents of the file.
+As a user if I specify multiple files I should be able to print the contents of all the files
+separated by 3 line breaks.
+***************************************************************************************************************
+Get URL:																											     5 hours
+As a user I can retrieve as file from a given link and add it to the current working directory.                             
+***************************************************************************************************************
+Echo: 																													  7 hours 
+As a user I can print the contents of my input on the shell.
+As a user I can put my input into a file which contains only my input, and if the file does not exist
+I would want it to make a new one with the specified name.
+As a user I can put my input into a file which is added to the content already in that file, and if the
+file does not exist I would want it to make a new one with the specified name.
+***************************************************************************************************************
+Man:																													  10 hours
+As a user I should be able to print out all the documentation for the given command.
+***************************************************************************************************************
+Pushd:																													 4 hours
+As a user I can save my current working directory and switch over to a new working directory given
+a full path to the new directory, so once I am finished with the new working directory I can go back
+to the old working directory.
+***************************************************************************************************************
+Popd: 																													 4 hours
+As a user I can go to the previous directory once I am done working in the current directory.
+***************************************************************************************************************
+History:																												 8 hours
+As user I need to know the recent typed commands, specify them by number or not specify them.
+I also want
+to know which of the given commands is the most recent one
+***************************************************************************************************************
+Save FileName:																											 8 hours
+As a user I should be able to save my current JShell to a file that contains the current state of my 
+JShell for a different time of use.
+***************************************************************************************************************
+Load FileName:
+As a user I can load the contents of the specified FileName and reinitialize everything that was 
+saved previously into the FileName
+As a user if I were to type in the command at any point after any of the other commands have been 
+executed, the load command must be disabled to avoid any confusion
+***************************************************************************************************************
+Find path … -type [f|d] -name expression:
+As a user I should be able to search for a specific file with its name at any path or multiple paths
+if provided
+As a user I should be able to search for a specific directory with its name at any path or multiple 
+paths if provided
+***************************************************************************************************************
+Tree:
+As a user I should be able to see the entire file system as a tree, always starting from the root 
+directory.
+
+
+
+

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - brain-stormed design ideas with team and created CRC Cards 
+
+What do I plan to work in the next three days?
+    - Start with JShell design with team
+    - work on ls command and class
+
+Am I blocked on anything?
+    - Nothing

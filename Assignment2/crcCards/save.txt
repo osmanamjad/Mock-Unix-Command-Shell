@@ -1,0 +1,9 @@
+Class name: Save
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Saves the current state of a file system into an external file
+
+Collaborators:
+* File

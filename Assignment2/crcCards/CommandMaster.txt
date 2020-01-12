@@ -1,0 +1,18 @@
+Class name: CommandMaster
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Interpret command to execute accordingly
+
+Collaborators:
+* Cat
+* Cd
+* Echo
+* History
+* Ls
+* Man
+* Mkdir
+* Popd
+* Pushd
+* Pwd

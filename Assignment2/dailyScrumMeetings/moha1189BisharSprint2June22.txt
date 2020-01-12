@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Implemented pwd code
+    - Began working on History
+    - co-worked team member on helper classes
+
+What do I plan to work in the next three days?
+    - complete History
+    - Test pwd
+    - work with team member on the Jshell
+
+Am I blocked on anything?
+    - Testing commands would need the completion of the Jshell
+ 

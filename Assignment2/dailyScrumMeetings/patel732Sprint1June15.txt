@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Brainstormed design ideas and created CRC Cards 
+    - Started working on cd command
+
+What do I plan to work in the next three days?
+    - Start the JShell design with my team
+    - Finish cd command
+
+Am I blocked on anything?
+    - Nothing

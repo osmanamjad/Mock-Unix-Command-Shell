@@ -1,0 +1,11 @@
+Class name: Tree
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Display the entire file system as a tree structure
+
+Collaborators:
+* Content
+* FileSystem
+* CommandMaster

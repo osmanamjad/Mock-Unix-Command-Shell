@@ -1,0 +1,53 @@
+//Sprint #2 Backlog.  
+June 20 to June 26
+
+*************************************************************************************************************************************
+User Stories from Product Backlog that we will address in this sprint:
+
+-As a user I can print the contents of my input on the shell.
+-As a user I can put my input into a file which contains only my input, 
+ and if the file does not exist I would want it to make a new one with the specified name.
+-As a user I can put my input into a file which is added to the content already in that file, 
+ and if the file does not exist I would want it to make a new one with the specified name.
+-As user I need to know the recent typed commands, specify them by number or not specify them.
+-As user I also want to know which of the given commands is the most recent one																												  10 hours
+-As a user I should be able to print out all the documentation for the given command.
+
+
+*************************************************************************************************************************************
+Specific tasks to be accomplished:
+
+a-1. () Write the base code for the Mkdir 
+a-2. () Implement directory creation using relative path
+b-1. () Implement directory creation using full path
+c-1. (Echo) Write the base code for the Echo class
+c-2. (Echo) Implement the second option for the echo class ('>>')
+d-1. (PathFinder) Finish writing the code for the PathFinder Class
+d-2. (CD) Finish the 'execute' part of the class
+e-1. (LS) Write the base of the code for the LS Class
+f-1. (LS) Implement the ability for a user to give path to print contents of
+f-2. (LS) Implement the ability to print the path to the file if path leads to file
+g-1. (pwd) Begin going over the CRC cards to identify how the commands collaborate.
+g-2. (pwd) Identify any helper functions needed for pwd
+g-3. (pwd) write a pseudocode for the code implementation pwd
+g-4. (pwd) implement and test pwd
+h-1. (History) Identify any helper function needed for this command
+h-2. (History) write a pseudocode for the code implementation
+h-3. (History) start code implementation for this command
+i-1. (man) start working on the command implementations
+
+
+*************************************************************************************************************************************
+These tasks are assigned as follows:
+
+User: Bishar Salat
+Tasks: g-3,g-4,h-1,h-2,h-3,i-1
+
+User: Harshit Patel
+Tasks: a-1, a-2, b-1
+
+User: Aaditya Dave
+Tasks: e-1, f-1, f-2
+
+User: Raj Patel
+Tasks: c-1, c-2, d-1, d-2

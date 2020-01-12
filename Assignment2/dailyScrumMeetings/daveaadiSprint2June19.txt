@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Completed a majority of the IO Class
+    - Worked on the JShell class
+
+What do I plan to work in the next three days?
+	- Finish implementing the LS Commands
+
+Am I blocked on anything?
+	- LS Class required other features to be implemented, awaiting those features to be
+	  implemented.

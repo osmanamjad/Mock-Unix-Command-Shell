@@ -1,0 +1,14 @@
+Class name: JShell
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Creates a unique session of the shell
+* Starts the user in their main directory
+
+Collaborators:
+* IO
+* CommandMaster
+* FileSystem
+* Validator
+* InputHistory

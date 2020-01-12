@@ -1,0 +1,31 @@
+//Sprint #1 Backlog.  
+July 18 to July 26
+
+*************************************************************************************************************************************
+User Stories from Product Backlog that we will address in this sprint:
+
+As a user I should be able to see the entire file system as a tree, always starting from the root 
+directory.
+As a user I should be able to redirect the console stdOut to a file.
+
+*************************************************************************************************************************************
+Specific tasks to be accomplished:
+
+a-1. (Tree) Write the code required for tree command
+b-1. (All) 	Implement redirection
+c-1. (Load) Test the command using unit tests
+d-1. (CRC)	Update CRC cards
+e-1. (LS) Test ls capability with recursion and non-recursion
+f-1. (Save) Test save capability with recursive and non-recursive.
+
+*************************************************************************************************************************************
+These tasks are assigned as follows:
+
+User: Harshit Patel
+Tasks: a-1, b-1
+
+User: Aaditya Dave
+Tasks: e-1, f-1
+
+User: Raj Patel
+Tasks: c-1, d-1

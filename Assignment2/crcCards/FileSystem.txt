@@ -1,0 +1,15 @@
+Class Name: FileSystem
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Provides a way to access different directories and files
+* Keeps track of root directory
+* Keeps track of current directory
+
+Collaborators:
+* Validator
+* IO
+* Content
+* Directory
+* FileSystem

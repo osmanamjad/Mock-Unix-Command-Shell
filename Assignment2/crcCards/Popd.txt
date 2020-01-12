@@ -1,0 +1,12 @@
+
+Class Name: Popd
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Changes the working directory to the last directory stored in the directory stack.
+
+Collaborators:
+* Pushd
+* CommandMaster
+* Cd

@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - worked on JShell design
+    - started commandValidator  
+
+What do I plan to work in the next three days?
+    - finish commandValidator
+    - work on mkdir
+
+Am I blocked on anything?
+    - directory structure brainstorming needed

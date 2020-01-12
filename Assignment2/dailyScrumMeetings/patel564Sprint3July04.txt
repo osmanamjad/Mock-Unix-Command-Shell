@@ -1,0 +1,6 @@
+What did I work on in the last three days?
+    - Finished testing entire jshell
+    - Finished crc cards review
+
+Am I blocked on anything?
+	- Nothing

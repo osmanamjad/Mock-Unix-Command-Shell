@@ -1,0 +1,47 @@
+//Sprint #1 Backlog.  
+June 13 to June 19
+
+*************************************************************************************************************************************
+User Stories from Product Backlog that we will address in this sprint:
+
+As user I can create directories within the current directory, so I can store my files in an organized fashion.
+As user I can create directories using full path so I can create a directory in a different location without being at that location.
+As a user I can change to a directory in the current working directory given the name of the directory, so I can access my files in 
+the directory I am working in.
+As a user I can change to a different directory besides the working directory given the full path to that directory, so I can access 
+other files on my computer.
+As a user I should be able to print the contents of files and directories in my current directory if I do not provide a path.
+As a user if I specify a path I should be able to see the contents of files and directories from that path.
+As user I need to know the recent typed commands, specify them by number or not specify them. I also want to know which of the given 
+commands is the most recent one
+
+*************************************************************************************************************************************
+Specific tasks to be accomplished:
+
+a-1. (Mkdir) Write the base code for the Mkdir 
+a-2. (Mkdir)  Implement directory creation using relative path
+b-1. (Mkdir) Implement directory creation using full path
+c-1. (Directory) Write the base code for the Directory class
+c-2. (CD) Implement moving from one directory to another
+d-1. (PathFinder) Write the base code for the PathFinder class
+e-1. (LS) Write the base of the code for the LS Class
+f-1 . (LS) Implement the ability for a user to give path to print contents of
+f-2.  (LS) Implement the ability to print the path to the file if path leads to file
+g-1. (JShell) Begin going over the CRC cards to identify 
+g-2. (JShell) Identify any helper functions needed
+g-3. (JShell) write a pseudocode for the code implementation
+
+*************************************************************************************************************************************
+These tasks are assigned as follows:
+
+User: Bishar Salat
+Tasks: g-1, g-2, g-3
+
+User: Harshit Patel
+Tasks: a-1, a-2, b-1
+
+User: Aaditya Dave
+Tasks: e-1, f-1, f-2
+
+User: Raj Patel
+Tasks: c-1, c-2, d-1

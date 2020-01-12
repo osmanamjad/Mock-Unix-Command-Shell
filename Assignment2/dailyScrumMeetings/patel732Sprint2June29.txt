@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Fixed errors and bugs in Echo
+    - Fully implemented Echo command
+
+What do I plan to work in the next three days?
+    - Begin unit tests
+    - write more efficient code if possible
+    - Update CRC cards
+
+Am I blocked on anything?
+	- Nothing

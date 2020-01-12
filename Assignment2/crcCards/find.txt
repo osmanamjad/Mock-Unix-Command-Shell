@@ -1,0 +1,14 @@
+Class name: Find
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Searches the file system and finds all files matching a given expression
+* Searches the file system and finds all directories matching a given expression
+* Searches for contents even when one of the given input is invalid
+
+Collaborators:
+* Directory
+* Content
+* FileSystem
+* CommandMaster

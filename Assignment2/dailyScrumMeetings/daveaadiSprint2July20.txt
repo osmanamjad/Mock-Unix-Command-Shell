@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Designed method for how to redirect the output for some commands.
+
+What do I plan to work in the next three days?
+    - Implement the redirection of commands.
+
+Am I blocked on anything?
+	- Nothing

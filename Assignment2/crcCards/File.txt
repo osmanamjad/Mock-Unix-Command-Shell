@@ -1,0 +1,10 @@
+Class name: File
+Parent Class: Content
+SubClass: None
+
+Responsibilities:
+* Add data to the file type content 
+* Read data from the file type content
+
+Collaborators:
+* None

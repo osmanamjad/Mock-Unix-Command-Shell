@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Designed how to implement LS class functionality
+    - Designed how to implement MKDir class functionality
+
+What do I plan to work in the next three days?
+    - Update the CRC Cards to current design implementation
+    - Finish up LS
+    - Finish up MKDir
+
+Am I blocked on anything?
+	- Nothing yet.

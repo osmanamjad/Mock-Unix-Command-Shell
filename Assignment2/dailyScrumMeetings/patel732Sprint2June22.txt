@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished coding the CommandMaster class
+    - Let Aaditya work on the PathFinder class, and instead worked on
+      the Jshell
+
+What do I plan to work in the next three days?
+	- Finalize the Jshell
+    - Finish the Echo command
+    - Finish CD command
+
+Am I blocked on anything?
+	- Still need to start the Echo command
+    - Still need to finish on the CD command

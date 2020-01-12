@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Wrote base code for tree
+
+What do I plan to work in the next three days?
+    - Finish coding for tree
+    - Start writing unit tests
+
+Am I blocked on anything?
+	- Nothing

@@ -1,0 +1,14 @@
+Class name: Cd
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Change the directory to DIR
+* Change the directory to root dir '/'
+* Change the directory to parent dir '..'
+
+Collaborators:
+* Directory
+* FileSystem
+* Validator
+* CommandMaster

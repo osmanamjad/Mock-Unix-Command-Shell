@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Finished coding the CommandValidator class
+    
+
+What do I plan to work in the next three days?
+	- Finalize the Mkdir class
+    
+
+Am I blocked on anything?
+	- nothing

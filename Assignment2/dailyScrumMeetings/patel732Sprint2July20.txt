@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Implemented more efficient algorithms
+    - Updated some of the CRC cards
+
+What do I plan to work in the next three days?
+    - Test the load command
+    - Update CRC cards
+
+Am I blocked on anything?
+	- Nothing

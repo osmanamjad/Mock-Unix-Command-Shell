@@ -1,0 +1,10 @@
+Class name: IO
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Accepts keyboard input
+* Displays output to the user in the console
+
+Collaborators:
+* None

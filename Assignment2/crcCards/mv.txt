@@ -1,0 +1,14 @@
+Class name: Mv
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Move a file to a another directory
+* Move a directory into another directory
+
+Collaborators:
+* Directory
+* FileSystem
+* Content
+* Validator
+* CommandMaster

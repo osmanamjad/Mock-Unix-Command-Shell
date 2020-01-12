@@ -1,0 +1,102 @@
+==== A2 phase I marking ====
+Your assignment is marked by:
+Products and Sprint backlogs - Syeda Rahman, suhailah.rahman@mail.utoronto.ca
+Design - Amol Dosanjh, amol.dosanjh@mail.utoronto.ca
+Correctness - Brian Lam, brianandrew.lam@mail.utoronto.ca
+Group number: group_0232
+UTORID usernames of members: daveaadi, moha1189, patel564, patel732
+
+Total deductions: -6
+Grade: C+, F for Salat B
+Your team's Phase II grade is based on this scale:
+    http://www.artsci.utoronto.ca/newstudents/transition/academic/grading
+The way we graded is as follows: your team starts with an A+. When errors and
+problems are found, you will lose 0, 1, 2, or 3 letter steps, depending on the
+severity. As an example, if you lost two steps, your team would earn an A-:
+     A+ -> A
+     A -> A-
+
+You were asked to follow the Scrum process. A big part of that is to maintain
+a product backlog and a sprint backlog.
+==== Product and Sprint backlogs ==== [up to -6]
+Several steps can be lost for these kinds of issues:
+- [ ]  No evidence of Product or Sprint backlog -6
+- [ ]  No evidence of team assigning tasks to team members -3
+- [ ]  SB items not taken directly from PB -1
+- [ ]  SB items not broken down into smaller steps -1
+- [ ]  PB, SB uses noticeably bad grammar and/or spelling -2
+[Total deductions in this section: 0]
+
+==== Java Style ==== [up to -6]
+Steps can be lost for these kinds of issues:
+- [ ]  Java naming conventions not followed (camelCase, no_underscores) -1
+- [ ]  Instance variable names not meaningful (e.g., "Label1" is not a good name) -1
+- [ ]  Bad indentation -1
+- [ ]  Lack of consistency in style across files -1
+- [ ]  Bad use of whitespace: too much or too little -1
+- [ ]  Class names are frequently not noun phrases -1
+- [ ]  Method names are frequently not verb phrases -1
+- [ ]  Not following the 80character column width limit. -1
+TA COMMENTS:
+[Total deductions in this section: 0]
+
+==== Design ==== [up to -6]
+Several steps can be lost for these kinds of issues:
+- [X]  public instance variables instead of setters and getters -1 to -2
+- [ ]  not a good breakdown of classes and methods (everything static;) -1
+- [ ]  long methods exist (more than roughly 30 lines from brace to brace) -1
+- [ ]  hard to add new commands -1
+- [ ]  no unified path handling mechanism -2
+- [X]  redirection doesn't easily incorporate new commands -2
+TA COMMENTS: Avoid using protected, use private instead, redirection locked into echo, inputHistory should not be a public static variable (breaks 
+encapsulation), have seperate input / output classes, avoid printing during command execution, Validator has almost all public instance vars
+[Total deductions in this section: 3]
+
+==== Javadoc ==== [up to -3]
+Several steps can be lost for these kinds of issues:
+- [ ]  Missing Javadoc on methods -1 for infrequent problems, up to -3 for frequent
+- [ ]  Missing Javadoc on class -1
+- [ ]  No Javadoc on instance vars -1
+- [ ]  Missing use @param and @return tags -1
+- [ ]  Unclear English: bad grammar, bad spelling up to -2
+TA COMMENTS: None of the classes in commands and container has class Javadoc.
+[Total deductions in this section: 0]
+
+==== Correctness ==== [up to -6]
+- [ ]  Code doesn't compile without modification (if the fix is simple) -1
+- [ ]  Code that is complete (from the SB) doesn't work completely: up to -2
+- [X]  Code crashes: -2
+- [X]  Every 3 failed test cases -1 [1]
+
+TA COMMENTS:
+Failed test cases [4]:
+1) Description: ls a file
+   Input: ls pathToFile
+   Expected: pathToFile
+   Actual: Contents of file:
+           hello
+
+2) Description: Full path
+   Input: mkdir /TestFolder
+		  mkdir /TestFolder/subFolder1
+		  mkdir /TestFolder/subFolder1/subFolder2
+   Expected: Creates folders at specified locations.
+   Actual: Not a valid command
+           No directory found
+           Invalid Path Provided
+           No directory found
+           Invalid Path Provided
+
+3) Descripton: Using a path to a file (not directory)
+   Input: echo “hello world” > fakeFolder
+          cd fakeFolder
+   Expected: Prints out error message
+   Actual: (No error message)
+
+4) Description: Echo with no arg
+   Input: Print out appropriate error message.
+   Actual: Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+        at java.lang.String.substring(String.java:1967)
+        at driver.JShell.main(Unknown Source)
+
+[Total deductions in this section: -3]

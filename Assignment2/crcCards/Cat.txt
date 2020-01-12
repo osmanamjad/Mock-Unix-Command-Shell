@@ -1,0 +1,12 @@
+Class Name: Cat
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Display contents of file(s) in shell (concatenated if multiple files requested)
+
+Collaborators:
+* File
+* FileSystem
+* Validator
+* CommandMaster

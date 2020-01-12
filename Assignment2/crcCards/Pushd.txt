@@ -1,0 +1,13 @@
+Class Name: Pushd
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Saves the current working directory onto stack 
+* Changes the new current working directory to DIR.
+
+Collaborators:
+* FileSyster
+* Validator
+* Cd
+* CommandMaster

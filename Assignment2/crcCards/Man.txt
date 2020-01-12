@@ -1,0 +1,10 @@
+Class Name: Man
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Display documentation for Command
+* Display all the commands that the user can run
+
+Collaborators:
+* CommandMaster

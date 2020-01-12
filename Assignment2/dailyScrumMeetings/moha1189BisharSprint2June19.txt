@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- Began pwd command
+    - As mentioned in my sprint1 daily scrum meeting, most of the tasks in sprint1
+    	were carried forward to sprint2. 
+
+What do I plan to work in the next three days?
+    - finish the implementations of pwd
+    - start working on History
+
+Am I blocked on anything?
+    - I currently have nothing that I am blocked on.
+ 

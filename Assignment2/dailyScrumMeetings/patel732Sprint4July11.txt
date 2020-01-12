@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Finished the implementation for mv and get command
+    - Commented the code in the mv and get classes
+
+What do I plan to work in the next three days?
+    - Create unit tests for some of the commands (cd, echo, mv)
+    - Create an implementation for load command
+
+Am I blocked on anything?
+	- Nothing

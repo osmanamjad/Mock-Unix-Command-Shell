@@ -1,0 +1,10 @@
+Class name: Get
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Retrieve a file from the web and store it on the file system
+
+Collaborators:
+* File
+* FileSystem

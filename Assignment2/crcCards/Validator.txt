@@ -1,0 +1,14 @@
+Class name: Validator
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Check if the parameters are acceptable
+* Check if file/directory already exists
+* Checks the path provided is valid
+* Check if the first word of user input is a valid command
+* Check if valid number of parameters user input
+
+Collaborators:
+* FileSystem
+* IO

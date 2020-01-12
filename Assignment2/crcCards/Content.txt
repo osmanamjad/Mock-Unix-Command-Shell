@@ -1,0 +1,11 @@
+Class Name: Content
+Parent Class: None
+SubClass: Directory, File
+
+Responsibilities:
+* Creates content(directory/file) in the file system
+* Sets name and path of content
+* Gets name and path of content
+
+Collaborators:
+* None

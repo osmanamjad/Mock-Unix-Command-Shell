@@ -1,0 +1,11 @@
+
+Class Name: Echo
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Prints a string on the shell
+
+Collaborators:
+* FileSystem
+* CommandMaster

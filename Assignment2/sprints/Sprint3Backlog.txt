@@ -1,0 +1,42 @@
+//Sprint #3 Backlog.  
+June 27 to July 4
+
+*************************************************************************************************************************************
+User Stories from Product Backlog that we will address in this sprint:
+
+-As a user I can print the contents of my input on the shell.
+-As a user I can put my input into a file which contains only my input, 
+ and if the file does not exist I would want it to make a new one with the specified name.
+-As a user I can put my input into a file which is added to the content already in that 
+ file, and if the file does not exist I would want it to make a new one with the specified name.
+-As a user if I specify a single file I should be able to print the contents of the file.
+-As a user if I specify multiple files I should be able to print the contents of all the files 
+ separated by 3 line breaks.
+
+*************************************************************************************************************************************
+Specific tasks to be accomplished:
+
+a-1. (Echo) Implement appending STRING to OUTFILE
+a-2. (Echo) Implementation of outputting a STRING and checking its validity
+a-3. (Echo) Implement overwriting STRING to OUTFILE
+a-4. (Echo) Implementation of creating a file if it does not exist
+b-1. (Cat)	Implement get contents for a file
+b-2. (Cat) 	Implement concatenation
+c-1. (Pushd)Test the pushd command as cd has been implemented
+d-1. (Popd) Test the popd command as cd has been implemented
+e-1. (LS) Implement ability to print contents at certain given path.
+e-2. (LS) Implement the ability to print the contents of a file given a path.
+f-1. (MKDir) Implement the ability to make directory using relative path.
+f-2. (MKDir) Implement the ability to create directory given path with .. and . in path.
+
+*************************************************************************************************************************************
+These tasks are assigned as follows:
+
+User: Harshit Patel
+Tasks: b-1, b-2, c-1, d-1
+
+User: Aaditya Dave
+Tasks: e-1, e-2, f-1, f-2
+
+User: Raj Patel
+Tasks: a-1, a-2, a-3, a-4

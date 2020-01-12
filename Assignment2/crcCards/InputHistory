@@ -1,0 +1,9 @@
+Class name: InputHistory
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Store commands entered by user (both valid and invalid)
+
+Collaborators:
+* None

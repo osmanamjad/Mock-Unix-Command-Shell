@@ -1,0 +1,11 @@
+Class name: Load
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Loads a saved state of a file system
+* Runs first otherwise is disabled to prevent mix up with file systems
+
+Collaborators:
+* FileSystem
+* CommandMaster

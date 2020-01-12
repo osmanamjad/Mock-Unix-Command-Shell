@@ -1,0 +1,15 @@
+Class name: Cp
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Copy a file to a another directory
+* Copy all the contents of a directory into another
+
+Collaborators:
+* Directory
+* File
+* FileSystem
+* Content
+* Validator
+* CommandMaster

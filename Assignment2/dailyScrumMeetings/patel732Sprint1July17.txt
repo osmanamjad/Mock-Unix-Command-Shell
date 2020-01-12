@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Finished implementing load command
+    - Updated unit tests
+
+What do I plan to work in the next three days?
+    - Create unit tests for other commands
+    - Update CRC cards
+
+Am I blocked on anything?
+	- Nothing

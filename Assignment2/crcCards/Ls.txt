@@ -1,0 +1,15 @@
+Class Name: Ls
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Displays the items in the current directory
+* Recursively list all sub directories.
+* If a file is given then lists the contents of the file
+
+Collaborators:
+* Directory
+* Content
+* FileSystem
+* Validator
+* CommandMaster

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Designed some ways to implement the save command.
+    - Determined how to change the design of the code to better match the requirements.
+
+What do I plan to work in the next three days?
+    - Complete save command and ls -R command.
+
+Am I blocked on anything?
+	- Nothing

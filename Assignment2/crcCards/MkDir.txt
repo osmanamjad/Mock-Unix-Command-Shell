@@ -1,0 +1,11 @@
+Class name: MkDir
+Parent Class: None
+SubClass: None
+
+Responsibilities:
+* Create a new directory relative to current directory
+* Create a new directory with a full path
+
+Collaborators:
+* FileSystem
+* CommandMaster
